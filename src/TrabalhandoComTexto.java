@@ -25,7 +25,7 @@ public class TrabalhandoComTexto {
 
         //Processamento
         String valoresConcatenados = "Oi, meu nome é " + nome + ", tenho " + idade +
-                " anos, minha altura é " + altura + " e estou pesando " + peso;
+                " anos, minha altura é " + altura + " e estou pesando " + peso + " Kg ";
 
         // SAIDA DE DADOS
         System.out.println(valoresConcatenados);
