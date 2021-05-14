@@ -31,6 +31,7 @@ public class Exercicio1002 {
         double area = n * raio*raio;
 
         // ***SAIDA DE DADOS***
+
         System.out.println(area);
 
     }
