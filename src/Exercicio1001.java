@@ -21,14 +21,16 @@ public class Exercicio1001 {
 
                 Scanner scanner = new Scanner(System.in);
 
+        // *** ENTRADA DE DADOS***
     int A,B;
     int X;
-
+        // *** PROCESSAMENTO ***
     A = 10;
     B = 9;
     X = A+B;
+        // ***SAIDA DE DADOS***
 
-System.out.println(X);
+    System.out.println(X);
         scanner.close();
         }
     }
