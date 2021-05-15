@@ -24,6 +24,7 @@ public class Exercicio1001 {
         // *** ENTRADA DE DADOS***
     int A,B;
     int X;
+
         // *** PROCESSAMENTO ***
     A = 10;
     B = 9;
