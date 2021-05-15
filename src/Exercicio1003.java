@@ -32,7 +32,7 @@ Exemplos de Entrada	            Exemplos de Saída
         A = 30;
         B = 10;
         SOMA = A + B;
-        
+
 
         // ***SAIDA DE DADOS***
 
