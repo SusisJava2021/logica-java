@@ -22,8 +22,14 @@ public class Exercicio1007 {
          
         Scanner scanner = new Scanner(System.in);
 
-        // *** Entrada de dados ***//
+        // *** Entrada de dados ***/
+        
+        public static void main(String[] args) {
 
+            Scanner scanner = new Scanner(System.in);
+
+            // *** Entrada de dados ***/
+        }
         int A = 5;
         int B = 6;
         int C = 7;
