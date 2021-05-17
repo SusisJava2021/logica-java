@@ -1,4 +1,4 @@
-public class Exercicio1014{
+public class Exercicio1014 {
 
 /** Calcule o consumo médio de um automóvel sendo fornecidos a distância total percorrida (em Km) e o total de combustível
  gasto (em litros).
@@ -14,8 +14,8 @@ Exemplo de Entrada              	Exemplo de Saída
 
 
 /*
-      
-            
+     
+         
             // *** Entrada de dados ***/
 
             public static void main(String[] args){
