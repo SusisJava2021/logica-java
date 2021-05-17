@@ -29,7 +29,7 @@ public class Exercicio1007 {
             Scanner scanner = new Scanner(System.in);
 
             // *** Entrada de dados ***/
-        }
+            
         int A = 5;
         int B = 6;
         int C = 7;
