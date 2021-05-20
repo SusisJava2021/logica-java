@@ -41,7 +41,7 @@ public class Exercicio1007 {
 
          // ***Saida de dados***
 
-         System.out.println("DIFERENCA = %d/n", diferenca);
+       //System.out.println("DIFERENCA = %d%n", diferenca);
 
 
 

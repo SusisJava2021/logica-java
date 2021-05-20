@@ -35,19 +35,19 @@ SALARY = U$ 550.00
         
         // *** Entrada de dados ***/
 
-        int A = entrada.nextInt();
-        int B = entrada.nextInt();
-        double C = entrada.nextDouble();
-        double salario = (B*C);
+      //  int A = entrada.nextInt();
+      //  int B = entrada.nextInt();
+      //  double C = entrada.nextDouble();
+       // double salario = (B*C);
 
         // *** Processamento ***
 
-        System.out.printf("NUMBER = %d\n",A);
+       // System.out.printf("NUMBER = %d\n",A);
 
 
         // ***Saida de dados***
 
-        System.out.printf("SALARY = U$ %.2f\n",salario);
+      //  System.out.printf("SALARY = U$ %.2f\n",salario);
 
     }
     

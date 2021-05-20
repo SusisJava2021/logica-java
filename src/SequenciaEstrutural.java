@@ -15,9 +15,9 @@ public class SequenciaEstrutural {
     idade = 40;
 
     // *** Processamento de dados ***//
-    frase - "Oi eu sou a " + nome + " " + sobrenome + "e tenho " + idade + "anos";
+ //   frase - "Oi eu sou a " + nome + " " + sobrenome + "e tenho " + idade + "anos";
    
     // *** Saida de dados ***//
-    System.out.println(frase);
+   // System.out.println(frase);
     }
     }

@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class Exercicio1006 {
 
 /**
@@ -32,21 +34,13 @@ public class Exercicio1006 {
 
         // *** Processamento ***
 
-        MEDIA = (notaA*2 + notaB*3 +notaC*5)/10;
+        MEDIA = (notaA * 2 + notaB * 3 + notaC * 5) / 10;
 
         // ***Saida de dados***
 
-        System.out.printf("MEDIA = %.1f\n",MEDIA);
+        System.out.printf("MEDIA = %.1f\n", MEDIA);
 
 
-
-
-
-
-
-
-
-
-
+    }
 
 }

@@ -21,7 +21,7 @@ espaço após o "R$". O valor deverá ser apresentado com 2 casas após o ponto.
     
         // *** Entrada de dados ***/
 
-        int A = entrada.nextInt();
+    /*    int A = entrada.nextInt();
         int B = entrada.nextInt();
         double C = entrada.nextDouble();
         int D = entrada.nextInt();
@@ -35,13 +35,13 @@ espaço após o "R$". O valor deverá ser apresentado com 2 casas após o ponto.
         // ***Saida de dados***
 
         System.out.printf("VALOR A PAGAR: R$ %.2f/n",resultado);
+*/
 
 
 
 
 
 
-    }
 
 }
 

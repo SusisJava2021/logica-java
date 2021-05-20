@@ -21,17 +21,17 @@ Exemplo de Entrada              	Exemplo de Saída
             public static void main(String[] args){
 
 
-            Scanner scanner = new Scanner(System.in);
-            int x = scanner.nextInt();
-            double y = scanner.nextDouble();
+           // Scanner scanner = new Scanner(System.in);
+           // int x = scanner.nextInt();
+          //  double y = scanner.nextDouble();
 
             // *** Processamento ***
 
-            double media = x / y;
+           // double media = x / y;
 
             // ***Saida de dados***
 
-            System.out.println(String.format("%.3f km/l", media));   
+            //System.out.println(String.format("%.3f km/l", media));
         }
         
     }

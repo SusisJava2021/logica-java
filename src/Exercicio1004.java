@@ -32,7 +32,7 @@ public class Exercicio1004 {
 
         // *** PROCESSAMENTO ***
 
-        int 3 = A*B;
+        int prod = A*B;
 
 
         // ***SAIDA DE DADOS***

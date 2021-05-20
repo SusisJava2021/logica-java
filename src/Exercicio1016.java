@@ -1,4 +1,6 @@
-public class Exercicio1016 { 
+import java.util.Scanner;
+
+public class Exercicio1016 {
 
     /**
      * Dois carros (X e Y) partem em uma mesma direção. O carro X sai com velocidade constante de 60 Km/h e o 
