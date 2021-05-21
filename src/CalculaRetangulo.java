@@ -1,4 +1,3 @@
-import javax.swing.text.html.HTMLDocument;
 import java.util.Locale;
 import java.util.Scanner;
 
@@ -19,7 +18,7 @@ public class CalculaRetangulo {
 
         double area = base * altura;
         double perimetro = 2 * base + 2 * altura;
-        double diagonal = Math.sqrt(base * base + altura * altura);
+        double diagonal = Math.sqrt(Math.pow(area, 2) + Math.pow(altura, 2));
 
         System.out.printf("AREA = %.4f%n", area);
         System.out.printf("PERIMETRO = %.4f%n", perimetro);
