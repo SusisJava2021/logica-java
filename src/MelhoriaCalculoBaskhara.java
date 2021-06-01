@@ -3,8 +3,7 @@ import java.util.Scanner;
 
 public class MelhoriaCalculoBaskhara {
 
-    import java.util.Locale;
-    import java.util.Scanner;
+
 
             public static void main(String[] args) {
 
@@ -35,4 +34,4 @@ public class MelhoriaCalculoBaskhara {
         }
     }
 
-}
+

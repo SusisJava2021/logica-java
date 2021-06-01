@@ -20,13 +20,13 @@ public class CalculaImc {
             System.out.println("Magreza");
         }
 
-        if (imc => 18.5 && imc => 24.9) {
+        if (imc >= 18.5 && imc >= 24.9) {
             System.out.println("Normal");
         }
-        if (imc => 24.9 && 29.9) {
+        if (imc >= 24.9 && imc < 29.9) {
             System.out.println("Sobrepeso");
         }
-        if (imc => 30.0 && 39.9) {
+        if (imc >= 30.0 && imc < 39.9) {
             System.out.println("Obesidade");
         }
         if (imc > 40.0) {
