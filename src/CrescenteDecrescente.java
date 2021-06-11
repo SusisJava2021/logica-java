@@ -25,7 +25,7 @@ Entrada         Exemplo da saida
 */
 
         public static void main(String[] args) {
-            Scanner scanner = new Scanner.(System.in);
+            Scanner scanner = new Scanner(System.in);
             int x = scanner.nextInt();
             int y = scanner.nextInt();
 
@@ -43,4 +43,4 @@ Entrada         Exemplo da saida
             scanner.close();
         }
     }
-}
+
